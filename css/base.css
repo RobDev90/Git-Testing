@@ -1,0 +1,18 @@
+body {
+    background:#ccc;
+}
+
+.container {
+    width:70%;
+    margin:0px auto;
+}
+
+h1 {
+    font-size:20px;
+    line-height: 28px;
+}
+
+p {
+    font-size:14px;
+    line-height: 20px;
+}
